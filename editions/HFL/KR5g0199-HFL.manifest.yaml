@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0199/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0199/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清洞天三五金剛玄籙儀經
+  date: '2015-08-29 02:59:52.343648'
+  source:
+    repository: kanripo
+    path: KR5g0199
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0199_000-HFL.yaml, hash: 'sha256:bda1bbc814f7d327028a8e67667c32537ffafc8ad51163252f0977a7b37257a9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0199_000-HFL.markers.yaml, hash: 'sha256:6ad6e120960e2e1f762b41f4b9c8b8065512e792b39d336c77813286b792adef'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0199_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 4849
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:96fc23b721e960fda4479a4f9c6d73b58dbf28f8b74911d82ef11bbd0071709c
